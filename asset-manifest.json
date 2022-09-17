@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GaramReactVer/static/css/main.7823238c.css",
+    "main.js": "/GaramReactVer/static/js/main.4c242b1b.js",
+    "static/js/787.ef786529.chunk.js": "/GaramReactVer/static/js/787.ef786529.chunk.js",
+    "static/media/garam_logo.png": "/GaramReactVer/static/media/garam_logo.fcde65ba489913078057.png",
+    "index.html": "/GaramReactVer/index.html",
+    "main.7823238c.css.map": "/GaramReactVer/static/css/main.7823238c.css.map",
+    "main.4c242b1b.js.map": "/GaramReactVer/static/js/main.4c242b1b.js.map",
+    "787.ef786529.chunk.js.map": "/GaramReactVer/static/js/787.ef786529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7823238c.css",
+    "static/js/main.4c242b1b.js"
+  ]
+}
